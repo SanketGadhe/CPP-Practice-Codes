@@ -1,0 +1,1 @@
+{"name":"Local: pythagoriantriplet","url":"c:\\Users\\sanke\\OneDrive\\Desktop\\C++\\5.Functions\\pythagoriantriplet.cpp","tests":[{"id":1663352450388,"input":"3 4 5","output":"Pythagorian Triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sanke\\OneDrive\\Desktop\\C++\\5.Functions\\pythagoriantriplet.cpp","group":"local","local":true}
